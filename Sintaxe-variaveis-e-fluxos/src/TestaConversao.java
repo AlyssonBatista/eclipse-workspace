@@ -6,5 +6,7 @@ public class TestaConversao {
 		int valor = (int)salario;// Na conversão de double pra inteiro ele acaba convertendo somente a parte inteira e descatando tudo depois do ponto
 		
 		System.out.println("O salario de Alysson é " + valor);
+		
+		
 	}
 }
