@@ -10,6 +10,7 @@ public class TestaVariaveis {
 		
 		System.out.println(idade);
 		
+		
 	}
 
 }
